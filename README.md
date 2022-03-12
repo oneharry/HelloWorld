@@ -1,2 +1,1 @@
-# HelloWorld
-First smart contract
+Hosted on Master branch
